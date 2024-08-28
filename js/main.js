@@ -40,3 +40,4 @@ $('form').validate({
         alert("Por favor, preencha os campos para prosseguir com a compra!");
     }
 })
+
